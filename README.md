@@ -4,6 +4,12 @@ A full-stack real-time chat application built using **Spring Boot (WebSocket)** 
 
 ---
 
+🎬 Video Demo -
+
+Link - https://drive.google.com/file/d/13Am1j4LzPoo0bgube--jpELhMd-Zjs1r/view?usp=sharing
+
+---
+
 ## 🚀 Project Description
 
 This project showcases how modern web applications can deliver a seamless and interactive chatting experience using **WebSockets** and **STOMP** over **Spring Boot**. It enables users to:
@@ -58,7 +64,7 @@ Follow these simple steps to set up and run the project on your local machine.
 ### 📝 Step-by-Step Setup
 
 1. **Clone the repository**
-   ```bash
+
 - git clone https://github.com/YOUR_USERNAME/real-time-chat-app.git
 - Run AppApplication.java file
 - Go to http://localhost:8080/chat
