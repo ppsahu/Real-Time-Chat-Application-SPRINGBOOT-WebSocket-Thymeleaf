@@ -86,5 +86,4 @@ Feel free to fork this repo, raise issues, or submit PRs! I’d love to collabor
 📬 Contact
 Pratyush Prasanna Sahu
 📍 Fullerton, CA
-📧 pratyush.sahu@csu.fullerton.edu
-LinkedIn
+📧 pratzsahu.ps@gmail.com
